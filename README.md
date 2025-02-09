@@ -2,7 +2,7 @@
 
 ![许可证](https://img.shields.io/badge/license-MIT-blue.svg)
 
-这是一个用于自动清理 Steam 创意工坊地图及相关文件的批处理脚本。
+这是一个用于自动清理 CS2 创意工坊地图及相关文件的批处理脚本。
 
 ---
 

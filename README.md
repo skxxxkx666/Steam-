@@ -1,4 +1,4 @@
-# Steam 创意工坊清理工具
+# counter-strike2 CS2 创意工坊清理工具
 
 ![许可证](https://img.shields.io/badge/license-MIT-blue.svg)
 
